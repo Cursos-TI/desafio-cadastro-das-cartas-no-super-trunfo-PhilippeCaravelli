@@ -54,5 +54,5 @@ int main() {
     scanf("%d", &turistico);
     printf("O numero de pontos turisticos e: %d\n", turistico);
 
-    return 0;
+  
 }
